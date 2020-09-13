@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SreactLive/static/css/main.d562d355.chunk.css",
+    "main.js": "/SreactLive/static/js/main.625a639d.chunk.js",
+    "main.js.map": "/SreactLive/static/js/main.625a639d.chunk.js.map",
+    "runtime-main.js": "/SreactLive/static/js/runtime-main.c4ab8d02.js",
+    "runtime-main.js.map": "/SreactLive/static/js/runtime-main.c4ab8d02.js.map",
+    "static/js/2.123de532.chunk.js": "/SreactLive/static/js/2.123de532.chunk.js",
+    "static/js/2.123de532.chunk.js.map": "/SreactLive/static/js/2.123de532.chunk.js.map",
+    "index.html": "/SreactLive/index.html",
+    "precache-manifest.e3f5374743d0a8afac0e00e7f1d00f2f.js": "/SreactLive/precache-manifest.e3f5374743d0a8afac0e00e7f1d00f2f.js",
+    "service-worker.js": "/SreactLive/service-worker.js",
+    "static/css/main.d562d355.chunk.css.map": "/SreactLive/static/css/main.d562d355.chunk.css.map",
+    "static/js/2.123de532.chunk.js.LICENSE.txt": "/SreactLive/static/js/2.123de532.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4ab8d02.js",
+    "static/js/2.123de532.chunk.js",
+    "static/css/main.d562d355.chunk.css",
+    "static/js/main.625a639d.chunk.js"
+  ]
+}
